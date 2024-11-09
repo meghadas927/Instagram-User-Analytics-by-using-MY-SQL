@@ -1,17 +1,19 @@
 # Instagram-User-Analytics-by-using-MY-SQL
 
 
-Contents1) Project description
+Contents-
+
+1) Project description
 
 2) Analysis- Marketing depertment
 
 3) Analysis- Investor metrics depertment
 
-4)Approach
+4) Approach
 
 5) Insights
 
-Project description
+**Project description**
 
 The project is basically based on tracking the users engagement with Instagram. There are various 
 teams like digital marketing,development and product teams who track this records so that they can 
@@ -42,9 +44,13 @@ Outputs-Rewarding the most loyal users- top 5 oldest users
  id Username created_at
  
 80 Darby_Herzog 06-05-2016 00:14
+
 67 Emilio_Bernier52 06-05-2016 13:04
+
 63 Elenor88 08-05-2016 01:30
+
 95 Nicole71 09-05-2016 17:30
+
 38 Jordyn.Jacobson2 14-05-2016 07:56
 
 Remind Inactive users to start posting-We have found a list of 26 people with their user id who have never posted a single photo on Instagram. they'll be receiving promotional emails to post their 1st photo.
@@ -52,44 +58,79 @@ Remind Inactive users to start posting-We have found a list of 26 people with th
  id Username
 
 5 Aniya_Hackett
+
 83 Bartholome.Bernhard
+
 91 Bethany20
+
 80 Darby_Herzog
+
 45 David.Osinski47
+
 54 Duane60
+
 90 Esmeralda.Mraz57
+
 81 Esther.Zulauf61
+
 68 Franco_Keebler64
+
 74 Hulda.Macejkovic
+
 14 Jaclyn81
+
 76 Janelle.Nikolaus81
+
 89 Jessyca_West
+
 57 Julien_Schmidt
+
 7 Kasandra_Homenick
+
 75 Leslie67
+
 53 Linnea59
+
 24 Maxwell.Halvorson
+
 41 Mckenna17
+
 66 Mike.Auer39
+
 49 Morgan.Kassulke
+
 71 Nia_Haag
+
 36 Ollie_Ledner37
+
 34 Pearl7
+
 21 Rocio33
+
 25 Tierra.Trantow
-Declaring contest winner
-In the contest, the user with the most likes on a single picture won
+
+Declaring contest winner-
+
+In the contest, the user with the most likes on a single picture won 
+
 photo_id Username like_user
+
  145 Zack_Kemmer93 48
  
 # Hashtag Researching-Top 5 hashtags that are most frequently used on 
 
 Instagram
+
 tag_name num_tags
+
 smile 59
+
 beach 42
+
 party 39
+
 fun 38
+
 concert 24
 
 Launch AD campaign -Registrants are most active on this day of the week
@@ -110,6 +151,7 @@ Bots & Fake Accounts:
 16
 
 MONDAY TUESDAY WEDNESDAYTHURSDAY FRIDAY SATURDAY SUNDAY
+
  THURSDAY-16 SUNDAY-16
  
 users (bots) who have liked every single photo on the site which is not possible for any normal user. 
@@ -133,17 +175,29 @@ The users who have liked every single photo on the site will be considered as bo
 user_id num_like
 
 21 257
+
 71 257
+
 5 257
+
 66 257
+
 41 257
+
 14 257
+
 57 257
+
 24 257
+
 76 257
+
 75 257
+
 54 257
+
 91 257
+
 36 257
 
 Approach-
